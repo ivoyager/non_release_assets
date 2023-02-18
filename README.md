@@ -6,6 +6,7 @@ Release assets can be found with ivoyager releases [here](https://github.com/ivo
 Download development assets [here](https://github.com/ivoyager/non_release_assets/releases).
 
 #### Development assets updates:
-* 2023-02-14 development assets for 0.0.14-DEV
-* 2021-12-28 development assets
+* asteroid_binaries-2023-10-18 (replace existing folder in ivoyager_assets-2023-02-14)
+* ivoyager_assets-2023-02-14 (for 0.0.14-DEV)
+* ivoyager_assets-2021-12-28
 
