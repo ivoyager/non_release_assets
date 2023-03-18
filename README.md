@@ -6,7 +6,7 @@ Release assets can be found with ivoyager releases [here](https://github.com/ivo
 Download development assets [here](https://github.com/ivoyager/non_release_assets/releases).
 
 #### Development assets updates:
-* juno-2023-03-17
+* Juno and JWST 2023-03-17
 
 #### Obsolete (replaced or present in release v0.0.14):
 * rings-2023-02-22 (replace existing folder in ivoyager_assets-2023-02-14)
