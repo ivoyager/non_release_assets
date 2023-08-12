@@ -6,6 +6,7 @@ Release assets can be found with ivoyager releases [here](https://github.com/ivo
 Download development assets [here](https://github.com/ivoyager/non_release_assets/releases).
 
 #### Development assets updates:
+* asteroid_binaries-2023-08-12-godot4 (for new dev builds in the _godot4_ branch)
 * Juno and JWST 2023-03-17
 
 #### Obsolete (replaced or present in release v0.0.14):
