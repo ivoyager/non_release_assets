@@ -6,7 +6,7 @@ Release assets can be found with ivoyager releases [here](https://github.com/ivo
 Download development assets [here](https://github.com/ivoyager/non_release_assets/releases).
 
 #### Development assets updates:
-* ivoyager_assets-2023-08-14-godot4 (for new dev builds in the _godot4_ branch)
+* ivoyager_assets-2023-08-14-godot4 (for new dev builds using Godot 4.x)
 * Juno and JWST 2023-03-17
 
 #### Obsolete (present in newer release or dev update):
