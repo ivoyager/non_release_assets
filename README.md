@@ -3,8 +3,8 @@ Contains non-release assets that may be needed for development builds. I, Voyage
 
 Download development assets [here](https://github.com/ivoyager/non_release_assets/releases).
 
-#### Development assets updates:
-* (Release assets 0.0.16 is most current. Find [here](https://github.com/ivoyager/ivoyager/releases).)
+#### Current:
+* (Release assets 0.0.17 is most current! Find [here](https://github.com/ivoyager/ivoyager_core/releases).)
 
 #### Obsolete:
 * ivoyager_assets-2023-09-22-godot4 (new Saturn Rings textures!)
