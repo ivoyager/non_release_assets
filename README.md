@@ -4,9 +4,10 @@ Contains non-release assets that may be needed for development builds. I, Voyage
 Download development assets [here](https://github.com/ivoyager/non_release_assets/releases).
 
 #### Current:
-* 2023-10-19 - ivoyager_assets-0.0.18.dev.20231019 (re-imported using Godot 4.2.beta1)
+* 2023-11-03 - ivoyager_assets-0.0.18.dev.20231103 (update for ivoyager_core assets management)
 
 #### Obsolete:
+* 2023-10-19 - ivoyager_assets-0.0.18.dev.20231019 (re-imported using Godot 4.2.beta1)
 * 2023-09-22 - ivoyager_assets-2023-09-22-godot4 (new Saturn Rings textures!)
 * 2023-08-14 - ivoyager_assets-2023-08-14-godot4 (for new dev builds using Godot 4.x)
 * 2023-08-12 - asteroid_binaries-2023-08-12-godot4 (for new dev builds in the _godot4_ branch)
